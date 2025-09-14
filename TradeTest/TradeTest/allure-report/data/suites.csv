@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Sep 12 17:05:10 BDT 2025","Fri Sep 12 17:05:14 BDT 2025","4826","Suite","Test","TestCases.TestLogin","TestCases.TestLogin","testLogin","Verify login Successful",""
+"passed","Fri Sep 12 17:05:14 BDT 2025","Fri Sep 12 17:05:18 BDT 2025","3344","Suite","Test","TestCases.Dashbordtest","TestCases.Dashbordtest","dashbordOperation","Verify dashbord page contents",""
+"passed","Fri Sep 12 17:05:18 BDT 2025","Fri Sep 12 17:05:42 BDT 2025","24534","Suite","Test","TestCases.TestTradeService","TestCases.TestTradeService","testTradeService","Verify Trade Service form submission",""
